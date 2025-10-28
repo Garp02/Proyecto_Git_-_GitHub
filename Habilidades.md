@@ -28,3 +28,16 @@ No tengo, saludos.
 - Conocimientos intermedios en redes de datos
 
 - Conocimientos básicos de Excel
+## Estudios
+
+### Preparatoria
+
+Estudié una carrera técnica en Sistemas Digitales en el CECyT 9 Juan de Dios Bátiz Paredes.
+
+### Universidad
+
+Estudié la Licenciatura en Física y Matemáticas con especialización en Ingeniería Nuclear en ESFM (no he acabado).
+
+Estudié Matemáticas en la Facultad de Ciencias.
+
+Estudio la Licenciatura en Ciencia de datos en el IIMAS.
