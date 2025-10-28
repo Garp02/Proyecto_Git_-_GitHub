@@ -41,3 +41,5 @@ Estudié la Licenciatura en Física y Matemáticas con especialización en Ingen
 Estudié Matemáticas en la Facultad de Ciencias.
 
 Estudio la Licenciatura en Ciencia de datos en el IIMAS.
+
+Lorem ipsum dolor sit amet
