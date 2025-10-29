@@ -81,10 +81,3 @@
 - [The Times They Are a-Changin'](https://youtu.be/hfpCrdDSB-M?si=uEy-wTr3r2Q1qjls)  
 - [Song to Woody](https://youtu.be/A66W_6gjtcU?si=tnVtdtiJ_XTvyCDW)
 </details>
-
----
-
-<div align="center">
-  
-
-</div>
