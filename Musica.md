@@ -11,3 +11,9 @@
 * [Elton John - Bennie And The Jets](https://www.youtube.com/watch?v=nN120h-p-1E)
 * [Elton John - Pinball Wizard](https://www.youtube.com/watch?v=6kQY-w-3-gY)
 * [Elton John - Goodbye Yellow Brick Road](https://www.youtube.com/watch?v=84-r2A5Nl0I)
+## Coldplay
+* [Coldplay - Coloratura](https://www.youtube.com/watch?v=50-5NfY1f5Y)
+* [Coldplay - Charlie Brown](https://www.youtube.com/watch?v=zTFBJgnNgU4)
+* [Coldplay - The Karate Kid](https://youtu.be/4wwPQFbH_tg?si=GkbnNuF3fpFXGYwj)
+* [Coldplay - ALL MY LOVE](https://youtu.be/4NKhYkFAmUw?si=BRNDnz7XMfhEwiRC)
+* [Coldplay - JUPiTER](https://youtu.be/07Pmjxhuo4k?si=J2uw3i39fDiLSyaK)
