@@ -1,45 +1,57 @@
-## Habilidades blandas
+# 💼 **Habilidades**
+
+---
+
+## 💬 **Habilidades Blandas**
 
 No tengo, saludos.
-## Habilidades Técnicas
 
-- Uso de instrumentos de medición electrónica
+---
 
-- Software de diseño y simulación de circuitos electrónicos
+## 🧰 **Habilidades Técnicas**
 
-- Progrmación de PIC y Arduino
+🔧 **Electrónica y Hardware**
+- Uso de instrumentos de medición electrónica  
+- Programación de **PIC** y **Arduino**  
+- Software de **diseño y simulación de circuitos electrónicos**
 
-- Conocimientos avanzados de LaTeX
+💻 **Desarrollo y Programación**
+- **Python** para ciencia de datos  
+- **R** para análisis estadístico  
+- **Java** (nivel intermedio)  
+- **C** (nivel intermedio)  
+- Conocimientos intermedios de **cómputo concurrente**  
+- Conocimientos intermedios en **redes de datos**
 
-- Uso de Git & Git Hub
+📚 **Herramientas y Documentación**
+- Conocimientos avanzados de **LaTeX**  
+- Uso de **Git** y **GitHub**  
+- Conocimientos básicos de **Excel**
 
-- Conocimientos intermedios en diseño e implementación de bases de datos
+🗄️ **Bases de Datos**
+- Diseño e implementación de bases de datos (nivel intermedio)
 
-- Python para ciencia de datos
+---
 
-- R para ciencia de datos
+## 🎓 **Estudios**
 
-- Java intermedio
+### 🧩 **Preparatoria**
+📍 *CECyT 9 “Juan de Dios Bátiz Paredes”*  
+Carrera técnica en **Sistemas Digitales**
 
-- C intermedio
 
-- Conocimientos intermedios de cómputo concurrente
+### ⚛️ **Universidad**
 
-- Conocimientos intermedios en redes de datos
+🎓 *ESFM — IPN*  
+Licenciatura en **Física y Matemáticas**, especialización en **Ingeniería Nuclear** *(en pausa)*  
 
-- Conocimientos básicos de Excel
-## Estudios
+🎓 *Facultad de Ciencias — UNAM*  
+Licenciatura en **Matemáticas**
 
-### Preparatoria
+🎓 *IIMAS — UNAM*  
+Actualmente cursando la **Licenciatura en Ciencia de Datos**
 
-Estudié una carrera técnica en Sistemas Digitales en el CECyT 9 Juan de Dios Bátiz Paredes.
+---
 
-### Universidad
 
-Estudié la Licenciatura en Física y Matemáticas con especialización en Ingeniería Nuclear en ESFM (no he acabado).
-
-Estudié Matemáticas en la Facultad de Ciencias.
-
-Estudio la Licenciatura en Ciencia de datos en el IIMAS.
-
-Lorem ipsum dolor sit amet
+*“Lorem ipsum” es solo el principio.*
