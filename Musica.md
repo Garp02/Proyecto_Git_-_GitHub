@@ -17,3 +17,9 @@
 * [Coldplay - The Karate Kid](https://youtu.be/4wwPQFbH_tg?si=GkbnNuF3fpFXGYwj)
 * [Coldplay - ALL MY LOVE](https://youtu.be/4NKhYkFAmUw?si=BRNDnz7XMfhEwiRC)
 * [Coldplay - JUPiTER](https://youtu.be/07Pmjxhuo4k?si=J2uw3i39fDiLSyaK)
+## Bon Jovi
+* [Bon Jovi - Born To Be My Baby](https://www.youtube.com/watch?v=Ahv-S-1_J5g)
+* [Bon Jovi - Livin' On A Prayer](https://www.youtube.com/watch?v=lDK9-E-id2M)
+* [Bon Jovi - You Give Love A Bad Name](https://www.youtube.com/watch?v=KrZHPOeOxTw)
+* [Bon Jovi - I'll Be There For You](https://www.youtube.com/watch?v=s86K-p08_20)
+* [Bon Jovi - Always](https://www.youtube.com/watch?v=95VXT91gL-4)
