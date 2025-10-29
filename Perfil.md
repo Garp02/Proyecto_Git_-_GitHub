@@ -1,6 +1,6 @@
 # 👤 **Perfil Personal**
 
-### ✨ *Ibrahim Munive Ramírez*
+### *Ibrahim Munive Ramírez*
 
 ---
 
@@ -15,15 +15,18 @@
 
 ## 🎯 **Intereses**
 
-Me apasionan el **cine**, la **lectura**, los **videojuegos**, los **Legos** y simplemente **caminar para pensar**.  
+Me apasionan el **cine**, la **lectura**, los **videojuegos**, los **Legos** y **caminar**.  
 
-📚 **Saga favorita:** *Dune* — *Frank Herbert*  
-📖 **Manga favorito:** *One Piece* (¡el único, pero suficiente!)  
+📚 **Saga favorita:** *Dune* — *Frank Herbert* 
+
+📖 **Manga favorito:** *One Piece* (el único)  
+
 🎬 **Películas favoritas:**  
 - *Dune: Parte II*  
 - *El Conde de Montecristo* (2024)  
 - *Rocketman*  
+
 🎮 **Videojuegos favoritos:**  
 - *Clair Obscur: Expedition 33*  
 - *Hollow Knight*  
-- *Silksong* (esperando con fe)
+- *Silksong* (esperado con fe)
