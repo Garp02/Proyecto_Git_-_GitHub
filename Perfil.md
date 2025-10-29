@@ -1,58 +1,29 @@
-# 💼 **Habilidades**
+# 👤 **Perfil Personal**
+
+### ✨ *Ibrahim Munive Ramírez*
 
 ---
 
-## 💬 **Habilidades Blandas**
+## 🗺️ **Datos Básicos**
 
-No tengo, saludos.
-
----
-
-## 🧰 **Habilidades Técnicas**
-
-🔧 **Electrónica y Hardware**
-- Uso de instrumentos de medición electrónica  
-- Programación de **PIC** y **Arduino**  
-- Software de **diseño y simulación de circuitos electrónicos**
-
-💻 **Desarrollo y Programación**
-- **Python** para ciencia de datos  
-- **R** para análisis estadístico  
-- **Java** (nivel intermedio)  
-- **C** (nivel intermedio)  
-- Conocimientos intermedios de **cómputo concurrente**  
-- Conocimientos intermedios en **redes de datos**
-
-📚 **Herramientas y Documentación**
-- Conocimientos avanzados de **LaTeX**  
-- Uso de **Git** y **GitHub**  
-- Conocimientos básicos de **Excel**
-
-🗄️ **Bases de Datos**
-- Diseño e implementación de bases de datos (nivel intermedio)
+| 🏙️ | **Lugar de origen** | Ciudad de México |
+|:--:|:--------------------|:----------------:|
+| 🎂 | **Cumpleaños** | 20 de septiembre |
+| ⏳ | **Edad** | 23 años |
 
 ---
 
-## 🎓 **Estudios**
+## 🎯 **Intereses**
 
-### 🧩 **Preparatoria**
-📍 *CECyT 9 “Juan de Dios Bátiz Paredes”*  
-Carrera técnica en **Sistemas Digitales**
+Me apasionan el **cine**, la **lectura**, los **videojuegos**, los **Legos** y simplemente **caminar para pensar**.  
 
-
-### ⚛️ **Universidad**
-
-🎓 *ESFM — IPN*  
-Licenciatura en **Física y Matemáticas**, especialización en **Ingeniería Nuclear** *(en pausa)*  
-
-🎓 *Facultad de Ciencias — UNAM*  
-Licenciatura en **Matemáticas**
-
-🎓 *IIMAS — UNAM*  
-Actualmente cursando la **Licenciatura en Ciencia de Datos**
-
----
-
-
-*“Lorem ipsum” es solo el principio.*
-
+📚 **Saga favorita:** *Dune* — *Frank Herbert*  
+📖 **Manga favorito:** *One Piece* (¡el único, pero suficiente!)  
+🎬 **Películas favoritas:**  
+- *Dune: Parte II*  
+- *El Conde de Montecristo* (2024)  
+- *Rocketman*  
+🎮 **Videojuegos favoritos:**  
+- *Clair Obscur: Expedition 33*  
+- *Hollow Knight*  
+- *Silksong* (esperando con fe)
