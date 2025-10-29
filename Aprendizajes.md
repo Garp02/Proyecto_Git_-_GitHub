@@ -9,5 +9,3 @@
  - Usar ramas
 
  - Usar Fork
-
- - Mostrar el historial con git log --graph --online --all
