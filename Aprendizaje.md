@@ -27,3 +27,6 @@ Visualizar la historia del repositorio como si fuera el árbol genealógico de t
 ---
 
 *Git ya no da miedo. Ahora es solo una herramienta más.*  
+
+
+*Recuerda la importancia de diferneciar entre el repositorio local y el remoto, adenás de cómo resolver conflictos*
