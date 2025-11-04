@@ -24,6 +24,9 @@ Copiar proyectos ajenos para modificarlos libremente — la independencia comien
 `git log --graph --oneline --all`  
 Visualizar la historia del repositorio como si fuera el árbol genealógico de tus commits.
 
+  **7. Resolución de conflictos**
+Resolver conflictos cuando surjan al unir ramas.
+
 ---
 
 *Git ya no da miedo. Ahora es solo una herramienta más.*  
