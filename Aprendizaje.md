@@ -27,3 +27,7 @@ Visualizar la historia del repositorio como si fuera el árbol genealógico de t
 ---
 
 *Git ya no da miedo. Ahora es solo una herramienta más.*  
+
+
+- Tip: Hacer commits pequeños y claros facilita la revisión y la resolución de conflictos. ✅
+
