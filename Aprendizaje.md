@@ -27,6 +27,9 @@ Visualizar la historia del repositorio como si fuera el árbol genealógico de t
   **7. Resolución de conflictos**
 Resolver conflictos cuando surjan al unir ramas.
 
+
+- Tip: Hacer commits pequeños y claros facilita la revisión y la resolución de conflictos. ✅
+
 *Recuerda la importancia de diferneciar entre el repositorio local y el remoto, adenás de cómo resolver conflictos*
 
 ## 💡 Consejos:
@@ -37,6 +40,6 @@ Acabas de hacer commit y ves el error. Aún no has hecho `push`. Este es tu mejo
 
 _Te deja editar el mensaje del último commit como si nada hubiera pasado._
 
-⚙️ **1. La Máquina del Tiempo (para commits antiguos)**
+⚙️ **2. La Máquina del Tiempo (para commits antiguos)**
 Cuando el error está enterrado bajo varios commits, necesitas una herramienta más pesada para viajar al pasado.
 > `git rebase -i` 
