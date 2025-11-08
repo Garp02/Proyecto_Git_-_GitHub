@@ -27,6 +27,8 @@ Visualizar la historia del repositorio como si fuera el árbol genealógico de t
   **7. Resolución de conflictos**
 Resolver conflictos cuando surjan al unir ramas.
 
+*Recuerda la importancia de diferneciar entre el repositorio local y el remoto, adenás de cómo resolver conflictos*
+
 ## 💡 Consejos:
 
 ✨ **1. El "CTRL+Z" del último commit**
