@@ -24,10 +24,22 @@ Copiar proyectos ajenos para modificarlos libremente — la independencia comien
 `git log --graph --oneline --all`  
 Visualizar la historia del repositorio como si fuera el árbol genealógico de tus commits.
 
----
-
-*Git ya no da miedo. Ahora es solo una herramienta más.*  
+  **7. Resolución de conflictos**
+Resolver conflictos cuando surjan al unir ramas.
 
 
 - Tip: Hacer commits pequeños y claros facilita la revisión y la resolución de conflictos. ✅
 
+*Recuerda la importancia de diferneciar entre el repositorio local y el remoto, adenás de cómo resolver conflictos*
+
+## 💡 Consejos:
+
+✨ **1. El "CTRL+Z" del último commit**
+Acabas de hacer commit y ves el error. Aún no has hecho `push`. Este es tu mejor amigo.
+> `git commit --amend`
+
+_Te deja editar el mensaje del último commit como si nada hubiera pasado._
+
+⚙️ **2. La Máquina del Tiempo (para commits antiguos)**
+Cuando el error está enterrado bajo varios commits, necesitas una herramienta más pesada para viajar al pasado.
+> `git rebase -i` 
